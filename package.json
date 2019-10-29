@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/robertcarlsson/randomGame.git"
   },
-  "author": "",
+  "author": "Robert Carlsson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/robertcarlsson/randomGame/issues"
